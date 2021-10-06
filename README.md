@@ -8,8 +8,9 @@ For example, Smooth would become S3h.  Words are separated by spaces or non-alph
 TO TEST
 
 Node v14.17.3
-npm install
-npm i jest-cli -g
-jest
+
+1. npm install
+2. npm i jest-cli -g
+3. jest
 
 you can change the sentece in the test file
